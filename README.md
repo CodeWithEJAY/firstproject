@@ -1,2 +1,2 @@
 # C# Programming Language
-Programs using C# 
+Console-based Programs to practice my knowledge in C#
